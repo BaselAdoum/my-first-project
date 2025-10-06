@@ -48,5 +48,4 @@ git remote add origin https://github.com/BaselAdoum/my-first-project.git
 git branch -M main
 git push -u origin main
 
-
-I am testing the new branch 
+$ git checkout -b new-feature
